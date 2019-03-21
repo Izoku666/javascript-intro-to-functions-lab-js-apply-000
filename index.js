@@ -4,10 +4,10 @@ function sayHiToGrandma(string)
   return "I love you, too.";
   
   else if(string === string.toUpperCase())
-  return "";
+  return "YES INDEED!";
   
   else if(string === string.toLowerCase())
-  return "";
+  return "I can't hear you!";
 }
 
 function logShout(string)
